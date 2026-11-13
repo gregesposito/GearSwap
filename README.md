@@ -1,3 +1,10 @@
+> ### About this fork (gregesposito)
+> **Stale fork (Apr 2023).** The live GearSwap job files are in [PeachBlossomWine/GearSwap](https://github.com/PeachBlossomWine/GearSwap), which Kriz still commits to. Use that one.
+>
+> This fork's changes (BRD idle/movement gear in town, small JA tweaks in the BRD/GEO/WAR common files) were merged upstream in April 2023.
+
+---
+
 Author: Byrth
 
 Version: 0.930
